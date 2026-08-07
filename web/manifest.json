@@ -1,0 +1,11 @@
+{
+  "name": "Showline",
+  "short_name": "Showline",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F6F2E9",
+  "theme_color": "#17221C",
+  "description": "Show your line. Sell it live.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
